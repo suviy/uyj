@@ -1,0 +1,148 @@
+*{
+	padding: 0;margin:0;
+}
+.all{
+	margin:0 auto; 
+	width: 100%; 
+	height: 1800px;
+}
+/* .head{
+	width: 80%;
+	height: 367px;
+	background: url(../images/detailsNav.jpg)no-repeat;
+	margin: 0 auto;
+} */
+.subBanner,.subBody{
+	width: 1500px;
+}
+.subBody{
+	margin-top: 25px;
+}
+/* .title{
+	height: 45px;
+	border-bottom: 1px solid #ccc;
+	width: 80%;
+	line-height: 50px;
+	margin:15px auto;
+} 
+.titleLeft{
+	font-weight:bold;
+	float:left;
+}
+.titleRight{
+	float: right;
+}*/
+.subBody .OneOfTwo {
+    width: 1530px;
+    float: left;
+}
+.listConts .info {
+    width: 1500px;
+    }
+
+.secondTitle p{
+   font-family:"微软雅黑";
+   text-align:center;
+   font-size: 27px;
+   font-weight: bold; 
+}
+.threeTitle{
+	width: 80%;
+	height: 20px;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+	border-top:1px solid #ccc;
+	margin:10px auto;
+}
+.threeTitle time{
+  font-family:"微软雅黑";
+  font-size: 14px;
+}
+.threeTitle span{
+	margin-left: 12px;
+}
+.fourTitle{
+	width: 80%;
+	height:60px;
+	line-height: 20px;
+    border: 1px solid #f4e4b4;
+    background: #fffff0;
+    font-family:"微软雅黑";
+    margin:15px auto;
+}
+.content{
+	width: 80%;
+	height: 720px;
+	margin:0 auto;
+
+}
+.content p{
+	margin-top: 20px;
+
+}
+h3{
+	color: #999;
+	text-align: right;
+}
+.flip-over ul{
+   list-style: none;
+   margin-left: 80px;
+}
+.flip-over li{
+   color: #999;
+   margin-top: 10px;
+}
+.flip-over li a{
+	color: #000;
+    text-decoration: none;
+}
+.allinput{
+	width: 83%;
+    margin: 35px auto
+}
+.input1 input{
+    width: 90px;
+    height: 40px;
+}
+.input2 input{
+	width: 100%;
+    height: 90px;
+    margin-top: 25px;
+}
+.input3 .one{
+	width: 90%;
+	height: 40px;
+}
+.input3 .two{
+	width: 10%;
+	height: 40px;
+}
+.commnet .toolbar{
+   	height: 38px;
+   } 
+footer {
+	width: 100%; 
+	height: 170px; 
+	background: #C0C0C0;
+	margin:0 auto;
+}
+.leftFoot{
+	float:left;
+	width: 1400px;
+}
+.leftFoot p {
+	
+	text-align: center;
+	color: #666666;
+	font-size: 18px;
+	margin-left: 140px;
+}
+.leftFoot img{
+	margin:10px 620px;
+}
+.rightFoot{
+	float: left;
+}
+.rightFoot img{
+	margin-top: 30px;
+}

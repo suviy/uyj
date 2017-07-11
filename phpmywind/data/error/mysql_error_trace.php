@@ -1,0 +1,2 @@
+<?php exit(); ?> Time: 2017-07-03 20:47:21. || Page: /phpMyWind/solution.php || IP: 0.0.0.0 || Error: Unknown column 'delstate' in 'where clause' Error sql: SELECT * FROM pmw_nav WHERE id=3 AND  delstate='' AND checkinfo=true ORDER BY orderid ASC   LIMIT 0,1 
+<?php exit(); ?> Time: 2017-07-03 20:48:44. || Page: /phpMyWind/solution.php || IP: 0.0.0.0 || Error: Unknown column 'delstate' in 'where clause' Error sql: SELECT * FROM pmw_nav WHERE id=3 AND  delstate='' AND checkinfo=true ORDER BY orderid ASC   LIMIT 0,1 

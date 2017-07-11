@@ -1,0 +1,172 @@
+*{
+	padding: 0;margin:0;
+}
+/* .all{
+	margin:0 auto; 
+	width: 100%; 
+	height: 1200px;
+}
+.nav{
+	width:100%;
+	height:66px;
+	box-shadow: 0px 2px 4px rgba(1,1,1,0.15);
+}
+.navLeft{
+	height: 66px;
+	float: left;
+	padding-top: 15px;
+}
+.navLeft img{
+	margin-left: 275px
+}
+.navRight{
+	width: 1200px;
+	height: 66px;
+	float:left;
+	padding-top: 15px;
+	margin-left:95px;
+}
+.navRight ul{
+	list-style: none; 
+}
+.navRight ul li{
+	float: left;
+	margin-left:45px;
+	width: 100px;
+	height:40px;
+	background:url(../images/nav-logo.PNG)no-repeat;
+	text-align: center;
+	line-height: 40px;
+}
+a{
+	text-decoration: none;
+	color: #fff
+} */
+.header-home {
+    width:100%;
+	height:55px;
+	box-shadow: 0px 2px 4px rgba(1,1,1,0.15);
+	opacity: 0.85;
+    background-color: #fff;
+}
+.header-home .header-nav li {
+    float: left;
+	margin-left:40px;
+	width: 100px;
+	height:40px;
+	background:url(../images/nav-logo.PNG)no-repeat;
+	text-align: center;
+	line-height: 40px;
+	list-style: none;
+}
+.header-home .header-nav a {
+    text-decoration: none;
+	color: #fff
+}
+
+/* .pic {
+	margin-top: 60px;
+	margin-left: 190px;
+} */
+.subBanner,.subBody{
+	width: 1500px;
+}
+.subBanner {
+       margin: 61px 220px;
+}
+.title {
+	height: 50px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 3px;
+	width: 85%;
+	line-height: 50px;
+	margin:15px auto;
+}
+.titleLeft {
+	font-weight: bold;
+	float:left;
+}
+.titleRight {
+	float: right;
+}
+.second-title .Solution-p {
+	font-family:"SimHei";
+	font-size: 36px;
+	font-weight: bold;
+    border-bottom:1px solid #000;
+    margin:0 auto;
+
+}
+.content {
+	margin:15px 0;
+	width: 85%;
+	height: 800px;
+}
+.content-top {
+    height: 200px;
+    border: 1px solid #E4E1E1;
+    margin-top: 30px;
+    width: 1401px;
+}
+.pic-left {
+	width: 356px;
+    margin-top: 10px;
+}
+
+.pic-right {
+    width: 1000px;
+    height: 188px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.pic-right p {
+	font-size: 20px;
+}
+.pic-right b{
+	font-size: 26px;
+}
+.pic-right a{
+	color: #000;
+	text-decoration: none;
+}
+.pic-right a:hover{
+	color: #337ab7;
+	text-decoration: none;
+}
+.content-center {
+	height: 188px;
+	border:1px solid #E4E1E1;
+	margin-top:45px;
+}
+.content-last {
+	height: 188px;
+	border:1px solid #E4E1E1;
+	margin-top:45px;
+}
+
+footer {
+	width: 100%; 
+	height: 170px; 
+	background: #C0C0C0;
+	margin:0 auto;
+}
+.leftFoot{
+	float:left;
+	width: 1400px;
+}
+.leftFoot p {
+	
+	text-align: center;
+	color: #666666;
+	font-size: 18px;
+	margin-left: 140px;
+}
+.leftFoot img{
+	margin:10px 620px;
+}
+.rightFoot{
+	float: left;
+}
+.rightFoot img{
+	margin-top: 30px;
+}

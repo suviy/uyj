@@ -1,0 +1,109 @@
+/*导航栏*/
+.header-home {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    opacity: 0.85;
+    background-color: #fff;
+}
+.row .header-nav {
+    margin-top: -4px;
+
+}
+.row .header-nav ul {
+
+}
+.row .header-nav li {
+    list-style: none;
+    float: left;
+    background: url(../images/nav-logo.PNG) no-repeat;
+    width: 103px;
+    height: 32px;
+    line-height: 32px;
+}
+.row .header-nav a {
+    text-decoration: none;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+.subBanner {
+    margin: 61px 220px;
+}
+.subBanner,.subBody{
+	width: 1500px;
+
+}
+.pic {
+	margin-top: 60px;
+	margin-left: 190px;
+}
+.title {
+	height: 50px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 3px;
+	width: 80%;
+	line-height: 50px;
+	margin:15px auto;
+}
+.titleLeft {
+	font-weight: bold;
+	float:left;
+}
+.titleRight {
+	float: right;
+}
+.second-title .Solution-p {
+	font-family:"SimHei";
+	font-size: 36px;
+	font-weight: bold;
+    border-bottom:1px solid #000;
+    margin:0 auto;
+
+}
+.content {
+	margin:30px auto;
+	width: 80%;
+	height: 800px;
+}
+.content img {
+	margin: 5px;
+}
+.content h4{
+	text-align: center;
+	font-family:"SimHei";
+}
+.onePic {
+	width:370px;
+	border:1px solid #E4E1E1;
+	float:left;
+	margin-top: 20px;
+}
+
+footer {
+	width: 1900px; 
+	height: 170px; 
+	background: #C0C0C0;
+	margin:0 auto;
+}
+.leftFoot{
+	float:left;
+	width: 1400px;
+}
+.leftFoot p {
+	
+	text-align: center;
+	color: #666666;
+	font-size: 18px;
+	margin-left: 140px;
+}
+.leftFoot img{
+	margin:10px 620px;
+}
+.rightFoot{
+	float: left;
+}
+.rightFoot img{
+	margin-top: 30px;
+}
